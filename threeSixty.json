@@ -1,0 +1,127 @@
+{
+  "version": "3.73.29904.0",
+  "course_id": "5v2MFablOnB",
+  "title": "Doing Business in the Netherlands - Digital Guide",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "NCCA Digital Guide"
+    }
+  ],
+  "slides": [
+    {
+      "id": "63t7Nzattvd",
+      "title": "Home",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6lyVMxcv4X5",
+      "title": "The Netherlands",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6R7VQSFrM9Y",
+      "title": "Sectoral Connections",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6CDUzJp0f1i",
+      "title": "Workforce and Talent",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6K9cXg1AMCr",
+      "title": "Innovation and Entrepeneurship",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5aDQUxltPdG",
+      "title": "Tax",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6oK2js5pKFZ",
+      "title": "CorpTax",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6M2PQywwMQE",
+      "title": "IndividualTax",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "65d0M9SMfuU",
+      "title": "Contacts",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6eifgaXijZ1",
+      "title": "NFIA",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6hS3EuuRFPZ",
+      "title": "KPMG",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6Kj0CshCtVW",
+      "title": "NCCA",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6BgjiAA8mx2",
+      "title": "Global Victoria",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6SIevsmLoZK",
+      "title": "Case Study",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "5dCFmsVDaJI",
+      "title": "Infrastructure",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5qezxyTIEF3",
+      "title": "Free Trade Agreement (EU-AU)",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "5YgND28Fgoe",
+      "title": "Considering Expanding?",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "6mDVnvMpATb",
+      "title": "Foreword",
+      "scene_index": "1.18"
+    },
+    {
+      "id": "5gV5MSpEEBH",
+      "title": "Practical Information",
+      "scene_index": "1.19"
+    },
+    {
+      "id": "5sE94IVdt1O",
+      "title": "GV Foreword",
+      "scene_index": "1.20"
+    },
+    {
+      "id": "5r9pxjzG8iw",
+      "title": "DG Foreword",
+      "scene_index": "1.21"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 634
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
